@@ -74,7 +74,7 @@ It is preprocessed to handle missing values, categorical variables, and class im
 ---
 
 ## 👨‍💻 Author  
-**Tarun Kumar**  
+**Prasanth Renamgi**  
 Passionate about Senior Assosiate Manager, Machine Learning models, and Data Analytics. 
 Feel free to connect or collaborate on data-driven projects.  
 
